@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chelsea</h1>
-<h3 align="center">I am a Commercial Insurance Underwriter and passionate about high-tech.</h3>
+<h3 align="center">I am a Commercial Insurance Underwriter with a passion for high-tech.</h3>
 
 - 🌱 I’m currently learning **coding, AI automation, and contents creating**
 
